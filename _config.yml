@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Olympio Hacquard"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "PhD Student, Université Paris-Saclay"
   location         : "Orsay"
   employer         :

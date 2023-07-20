@@ -3,7 +3,7 @@ title: "Topological interactions for collective dynamics: a study of a (not so) 
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019
+date: 2019-01-01
 venue: 'preprint'
 paperurl: 'https://perso.math.univ-toulouse.fr/cattiaux/files/2013/11/topologic-rev1.pdf'
 citation: 'Patrick Cattiaux, Fanny Delebecque, Olympio Hacquard'
