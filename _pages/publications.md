@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-##Peer-reviewed publications
+## Peer-reviewed publications
 
 
-##Preprints
+## Preprints
 
 Olympio Hacquard and Vadim Lebovici. Euler characteristic tools for topolog-
 ical data analysis. arXiv preprint [arXiv:2303.14040](https://arxiv.org/pdf/2303.14040.pdf), 2023.
 
-##Other
+## Other
 
 
 {% if author.googlescholar %}
