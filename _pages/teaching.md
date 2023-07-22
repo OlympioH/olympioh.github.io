@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching duties"
 permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Duties
 
 ## 2021-2023
 
@@ -21,12 +20,12 @@ author_profile: true
 ## 2018-2019 
 * **Oral examiner**, Mathematics L1 (bachelor level), Lycée Henri IV et Lycée Saint-Louis, Paris.
 
-#Outreach activities
+# Outreach activities
 
-##2020-2022
+## 2020-2022
 
 **MATh.en.JEANS**. Research initiation workshop in mathematics for middle-school students. Collège Alain Fournier, Orsay.
 
-##2017-2018
+## 2017-2018
 
 **Cordées de la réussite**. Workshop in mathematics with high-school students. Ens Paris-Saclay, Cachan.
