@@ -13,7 +13,7 @@ Olympio Hacquard, Krishnakumar Balasubramanian, Gilles Blanchard, Clément Levra
 
 * Olympio Hacquard and Vadim Lebovici. **Euler characteristic tools for topological data analysis**. arXiv:2303.14040. [[PDF]](https://arxiv.org/pdf/2303.14040.pdf) (2023).
 
-* Olympio Hacquard, Gilles Blanchard and Clément Levrard. **Statistical learning on measures: an application to persistence diagrams**. arxiv:2303.08456. [[PDF]](https://arxiv.org/pdf/2303.08456.pdf) (2023).
+* Olympio Hacquard, Gilles Blanchard and Clément Levrard. **Statistical learning on measures: an application to persistence diagrams**. arXiv:2303.08456. [[PDF]](https://arxiv.org/pdf/2303.08456.pdf) (2023).
 
 * Patrick Cattiaux, Fanny Delebcque and Olympio Hacquard. **Topological interactions for collective dynamics: a study of a (not so) simple model**. [[PDF]](https://perso.math.univ-toulouse.fr/cattiaux/files/2013/11/topologic-rev1.pdf) (2019).
 
