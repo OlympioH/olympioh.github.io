@@ -19,6 +19,8 @@ author_profile: true
 
 ## 2018-2019 
 * **Oral examiner**, Mathematics L1 (bachelor level), Lycée Henri IV et Lycée Saint-Louis, Paris.
+ 	
+---
 
 # Outreach activities
 
