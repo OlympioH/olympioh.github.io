@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## PhD Manuscript
+
+Olympio Hacquard. **From topological features to machine learning models: a journey through persistence diagrams**. [[PDF]](https://theses.hal.science/tel-04328645v1/document)  (2023)
+
 ## Peer-reviewed publications
 
 Olympio Hacquard, Krishnakumar Balasubramanian, Gilles Blanchard, Clément Levrard and Wolfgang Polonik. **Topologically penalized regression on manifolds**. Journal of Machine Learning Research, 23(161):1−39. [[PDF]](https://jmlr.org/papers/volume23/21-1270/21-1270.pdf). (2022).

@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* January 2024 - **Euler tools in topological data analysis**, Séminaire de mathématiques appliquées, Laboratoire de mathématiques Jean Leray, Nantes, France.
 * July 2023 - **Classification of measures, an application to persistence diagrams**, Journées de Statistiques 2023, Université Libre de Bruxelles, Belgium.
 * June 2023 - **Euler tools in topological data analysis**, APTIKAL team seminar, Laboratoire d'informatique de Grenoble, France.
 * May 2023 - **Topologically penalized regression on manifolds (Poster)**, International Conference on Learning Representations 2023, *Journal to conference track*, Kigali convention center, Rwanda.
