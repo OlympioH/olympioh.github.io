@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+* August 2024 - **Topologically penalized regression on manifolds**, Workshop on data science and related mathematics, Ikueikan university, Wakkanai, Japan.
+* June 2024 - **Topologically penalized regression on manifolds**, Bimed seminar, Kyoto university, Japan.
 * January 2024 - **Euler tools in topological data analysis**, Séminaire de mathématiques appliquées, Laboratoire de mathématiques Jean Leray, Nantes, France.
 * July 2023 - **Classification of measures, an application to persistence diagrams**, Journées de Statistiques 2023, Université Libre de Bruxelles, Belgium.
 * June 2023 - **Euler tools in topological data analysis**, APTIKAL team seminar, Laboratoire d'informatique de Grenoble, France.
