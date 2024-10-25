@@ -23,7 +23,7 @@ Olympio Hacquard. **From topological features to machine learning models: a jour
 
 
 
-* Olympio Hacquard, Gilles Blanchard and Clément Levrard. **Statistical learning on measures: an application to persistence diagrams**. arXiv:2303.08456. [[PDF]](https://arxiv.org/pdf/2303.08456.pdf) (2023).
+Olympio Hacquard, Gilles Blanchard and Clément Levrard. **Statistical learning on measures: an application to persistence diagrams**. arXiv:2303.08456. [[PDF]](https://arxiv.org/pdf/2303.08456.pdf) (2023).
 
 
 
