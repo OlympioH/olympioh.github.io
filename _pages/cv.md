@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[For the PDF version of my curriculum vitae, please click here (update 10/2024)](https://olympioh.github.io/files/CV.pdf)
+[For the PDF version of my curriculum vitae, please click here (update 01/2026)](https://olympioh.github.io/files/CV.pdf)
