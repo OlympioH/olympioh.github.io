@@ -17,9 +17,9 @@ Olympio Hacquard. **From topological features to machine learning models: a jour
 
 * Olympio Hacquard and Vadim Lebovici. **Euler characteristic tools for topological data analysis**. Journal of Machine Learning Research 25(240):1−39, 2024. [[PDF]](https://www.jmlr.org/papers/volume25/23-0353/23-0353.pdf) (2024).
 
-* Michael Etienne Van Huffel, Olympio Hacquard, Vadim Lebovici, Matteo Palo. **Discrete transforms of quantized persistence diagrams**. ALENEX 25. [[PDF]](https://arxiv.org/pdf/2303.14040) (2024).
+* Michael Etienne Van Huffel, Olympio Hacquard, Vadim Lebovici, Matteo Palo. **Discrete transforms of quantized persistence diagrams**. ALENEX 25. [[PDF]](https://arxiv.org/pdf/2303.14040) (2025).
 
-* Olympio Hacquard. **Hypergraph clusering using Ricci curvature: an edge transport perspective**. To appear in Transactions of Machine Learning [[PDF]](https://arxiv.org/pdf/2412.15695) (2025).
+* Olympio Hacquard. **Hypergraph clusering using Ricci curvature: an edge transport perspective**. Transactions on Machine Learning Research [[PDF]](https://arxiv.org/pdf/2412.15695) (2026).
 
 * Olympio Hacquard, Gilles Blanchard and Clément Levrard. **Statistical learning on measures: an application to persistence diagrams**. To appear in Electronic Journal of Statistics [[PDF]](https://hal.science/hal-04028783v3/document) (2026).
 
