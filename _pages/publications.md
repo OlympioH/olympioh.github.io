@@ -11,17 +11,17 @@ Olympio Hacquard. **From topological features to machine learning models: a jour
 
 ## Peer-reviewed publications
 
-* Olympio Hacquard, Krishnakumar Balasubramanian, Gilles Blanchard, Clément Levrard and Wolfgang Polonik. **Topologically penalized regression on manifolds**. Journal of Machine Learning Research, 23(161):1−39. [[PDF]](https://jmlr.org/papers/volume23/21-1270/21-1270.pdf). (2022).
+* Olympio Hacquard, Krishnakumar Balasubramanian, Gilles Blanchard, Clément Levrard and Wolfgang Polonik. **Topologically penalized regression on manifolds**. Journal of Machine Learning Research. [[PDF]](https://jmlr.org/papers/volume23/21-1270/21-1270.pdf). (2022).
 
 * Patrick Cattiaux, Fanny Delebcque and Olympio Hacquard. **Some flocking properties for a model of collective dynamics with topological interactions**. Communications in Mathematical Sciences [[PDF]](https://perso.math.univ-toulouse.fr/cattiaux/files/2013/11/topologic-rev1.pdf) (2024).
 
-* Olympio Hacquard and Vadim Lebovici. **Euler characteristic tools for topological data analysis**. Journal of Machine Learning Research 25(240):1−39, 2024. [[PDF]](https://www.jmlr.org/papers/volume25/23-0353/23-0353.pdf) (2024).
+* Olympio Hacquard and Vadim Lebovici. **Euler characteristic tools for topological data analysis**. Journal of Machine Learning Research. [[PDF]](https://www.jmlr.org/papers/volume25/23-0353/23-0353.pdf) (2024).
 
 * Michael Etienne Van Huffel, Olympio Hacquard, Vadim Lebovici, Matteo Palo. **Discrete transforms of quantized persistence diagrams**. ALENEX 25. [[PDF]](https://arxiv.org/pdf/2303.14040) (2025).
 
 * Olympio Hacquard. **Hypergraph clusering using Ricci curvature: an edge transport perspective**. Transactions on Machine Learning Research [[PDF]](https://arxiv.org/pdf/2412.15695) (2026).
 
-* Olympio Hacquard, Gilles Blanchard and Clément Levrard. **Statistical learning on measures: an application to persistence diagrams**. To appear in Electronic Journal of Statistics [[PDF]](https://hal.science/hal-04028783v3/document) (2026).
+* Olympio Hacquard, Gilles Blanchard and Clément Levrard. **Statistical learning on measures: an application to persistence diagrams**. Electronic Journal of Statistics [[PDF]](https://hal.science/hal-04028783v3/document) (2026).
 
 
 
